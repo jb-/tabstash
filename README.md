@@ -1,2 +1,2 @@
-# 404
-Chrome extension that forbids me from visiting some useless pages
+# tabstash
+A super lightweight Chrome extension that stashes current tabs and applies the stashed.
